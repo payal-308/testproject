@@ -1,4 +1,4 @@
 # testproject
 
-git config
-git config
+git config--this shows the different configuration parameters 
+git config--global user.name git config==global user,
